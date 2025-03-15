@@ -1,0 +1,10 @@
+{
+  "render_params": {
+    "fov": 90,
+    "render_distance": 12
+  },
+  "texture_pack": "Faithful 32x32",
+  "allowed_actions": [
+    "move", "jump", "camera", "attack"
+  ]
+}
